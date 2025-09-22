@@ -10,9 +10,9 @@ The purpose of this project is to analyze movie ratings data to uncover insights
 - EXAMPLE-
 - What years had the best ratings?
 
--Do longer movies get better ratings?
+- Do longer movies get better ratings?
 
--Who are the top directors/actors?
+- Who are the top directors/actors?
 
 ---
 *More steps and analyses will be added as the project progresses.* 
